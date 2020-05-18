@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Marvel
+
+  Created by MarvelDev on 15/05/2020.
+  Copyright © 2020 MarvelDev. All rights reserved.
+*/
+
+"ok" = "OK";
+"detail" = "Detail";
+"comics" = "Comics";
+"stories" = "Stories";
+"events" = "Events";
+"urls" = "Links";
